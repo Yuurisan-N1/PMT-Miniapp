@@ -13,19 +13,19 @@ RELEASES = [
     {
         "name": "PMT Linux ARM64",
         "filename": "pmt-linux-arm64",
-        "url": "https://github.com/Yuurisan-N1/PMT-Miniapp/releases/download/v1.0.0/pmt-linux-arm64",
+        "url": "https://github.com/Yuurisan-N1/PMT-Miniapp/releases/download/v1.0.1/pmt-linux-arm64",
         "chmod": True,
     },
     {
         "name": "PMT Linux AMD64",
         "filename": "pmt-linux-amd64",
-        "url": "https://github.com/Yuurisan-N1/PMT-Miniapp/releases/download/v1.0.0/pmt-linux-amd64",
+        "url": "https://github.com/Yuurisan-N1/PMT-Miniapp/releases/download/v1.0.1/pmt-linux-amd64",
         "chmod": True,
     },
     {
         "name": "Windows (PowerShell / CMD)",
         "filename": "PMT.exe",
-        "url": "https://github.com/Yuurisan-N1/PMT-Miniapp/releases/download/v1.0.0/PMT.Gram.exe",
+        "url": "https://github.com/Yuurisan-N1/PMT-Miniapp/releases/download/v1.0.1/PMT.Gram.exe",
         "chmod": False,
     },
 ]
